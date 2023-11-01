@@ -19,6 +19,5 @@ the potential to assist radiologists in the early detection and diagnosis of bra
 tumors, leading to better treatment outcomes and improved patient care.
 
 Dataset:
-
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset, 
 https://www.kaggle.com/code/arkalodh/brain-tumor-detection-classification
