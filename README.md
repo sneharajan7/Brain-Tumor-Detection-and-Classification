@@ -17,3 +17,7 @@ demonstrating its superior performance in terms of detection accuracy and
 computational efficiency. Overall, the proposed brain tumor detection system has
 the potential to assist radiologists in the early detection and diagnosis of brain
 tumors, leading to better treatment outcomes and improved patient care.
+
+Dataset:
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+https://www.kaggle.com/code/arkalodh/brain-tumor-detection-classification
